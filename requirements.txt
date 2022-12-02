@@ -1,0 +1,15 @@
+# this requirements file is necessary to run your application
+# add your requirements below
+
+streamlit==1.10
+plotly
+pandas
+numpy
+datetime
+matplotlib
+openpyxl
+http
+urllib
+os
+requests
+json
